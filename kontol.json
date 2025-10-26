@@ -1,18 +1,13 @@
-{
-  "6285177102275": {
+[
+  {
+    "number": "6285177102275",
     "password": "Fhkry",
-    "createdAt": "2025-10-23T13:20:55.449Z"
+    "status": "active"
   },
-  "6288211124775": {
-    "password": "rizz",
-    "createdAt": "2025-10-24T06:16:13.923Z"
-  },
-  "6281383342007": {
-    "password": "alwaysrizz",
-    "createdAt": "2025-10-24T06:57:24.214Z"
-  },
-  "6282113877157": {
-    "password": "botjs",
-    "createdAt": "2025-10-26T04:19:13.006Z"
+  {
+    "number": "62123",
+    "password": "Fhkry",
+    "status": "active"
   }
-}
+]
+
